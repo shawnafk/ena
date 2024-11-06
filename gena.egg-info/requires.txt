@@ -1,0 +1,9 @@
+numpy
+h5py
+geopack
+pyspedas
+jplephem
+pandas
+pytz
+datetime
+astropy

@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: gena
+Version: 0.1.0
+Summary: GENA data processing package
+Home-page: https://github.com/jiangshanzheng/gena
+Author: shawn
+Author-email: zhengjs@mail.ustc.edu.cn
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: h5py
+Requires-Dist: geopack
+Requires-Dist: pyspedas
+Requires-Dist: jplephem
+Requires-Dist: pandas
+Requires-Dist: pytz
+Requires-Dist: datetime
+Requires-Dist: astropy
+
+#this is GENA date process packet
+#strat from L2 csv data to ena instance and do analysis
